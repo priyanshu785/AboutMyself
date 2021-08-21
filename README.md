@@ -1,14 +1,12 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yashdeep!](https://entschluselt.github.io) 
-<a href="https://www.linkedin.com/in/entschluselt/">
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priyanshu!](https://entschluselt.github.io) 
+<a href=" https://www.linkedin.com/in/priyanshu-gaur-2a3955121/">
   <img style="padding: 3px;" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/entschluselt">
-  <img style="padding: 3px;" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:yashvendradeep@gmail.com">
+ 
+<a href="mailto: gour9priyanshu@gmail.com">
   <img style="padding: 3px;" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="http://instagram.com/entschluselt">
+<a href="https://www.instagram.com/priyanshuugaur/">
   <img style="padding: 3px;" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -18,7 +16,7 @@
 
 🎓 I’m an Inquisitive guy learning and curious about the computer world & a junior pursuing my Bachelors in MNNIT Allahabad. </br>
 👨‍💻  I am passionate about Web Development, Designing , Algorithms & I enjoy learning new things. </br>
-🎉 Graphic Designer at Media House of MNNIT , official media club of our college MNNIT Allahabad . </br>
+
 ### Tech i am familiar with 👨‍💻
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/c.svg"  />
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/cplusplus.svg"  />
@@ -32,5 +30,6 @@
 <br />
 </br>
 
-![yashdeep's github stats](https://github-readme-stats.vercel.app/api?username=entschluselt&show_icons=true&hide_border=true)
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username= priyanshu785&count_private=true)
+
 <br />
